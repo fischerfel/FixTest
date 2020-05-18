@@ -1,6 +1,6 @@
 {
     "dependencies": {
-        "mongo-express": "0.53.0",
+        "mongo-express": "0.54.0",
         "slpjs": "0.21.3"
     }
 }

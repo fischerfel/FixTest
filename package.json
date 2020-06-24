@@ -3,6 +3,7 @@
         "mongo-express": "0.53.0",
         "slpjs": "0.21.3",
         "sequelize": "4.44.2",
-        "realms-shim": "1.2.2"
+        "realms-shim": "1.2.2",
+        "pannellum": "2.5.1"
     }
 }

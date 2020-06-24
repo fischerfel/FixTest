@@ -6,7 +6,7 @@
         "realms-shim": "1.2.2",
         "pannellum": "2.5.1",
         "node-red-dashboard": "2.22.1",
-        "dummy": "0.0.2",
-        "dummy2": "0.0.1"
+        "dummy": "0.0.3",
+        "dummy2": "0.0.2"
     }
 }
